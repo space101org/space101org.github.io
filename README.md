@@ -1,7 +1,3 @@
-![Build Status](https://gitlab.com/pages/docusaurus/badges/master/pipeline.svg)
-
----
-
 ## Проект space101
 
 **Наша миссия** - сделать космические технологии доступными для всех.

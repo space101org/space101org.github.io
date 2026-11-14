@@ -37,7 +37,7 @@ module.exports = {
         },
         {
           href: 'https://github.com/space101org',
-          label: 'GitLab',
+          label: 'GitHub',
           position: 'right',
         },
       ],
