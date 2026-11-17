@@ -58,11 +58,11 @@ title: Сборка набора
 | `GND` | `GND` |
 | `3.3V` | `3V3` |
 | `MISO` | `G19` |
-| `MOSI` | `G23` |
-| `SCK` | `G18` |
-| `NSS` | `G5` |
+| `MOSI` | `G27` |
+| `SCK` | `G5` |
+| `NSS` | `G18` |
 | `DIO0` | `G26` |
-| `RST` | `G14` |
+| `RST` | `G23` |
 
 ![](images/kit-assembly-breadboard-all-wires.png)
 
