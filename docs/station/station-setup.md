@@ -109,7 +109,7 @@ title: Настройка станции
 
 В поле **Board Template** (Шаблон устройства) нужно ввести следующую строку:  
 ```
-{"name":"NodeMCU ESP32 Ra-02", "aADDR":0, "oSDA":21, "oSCL":22, "oRST":0, "pBut":0, "led":2, "radio":1, "lNSS":5, "lDIO0":26, "lDIO1":0, "lBUSSY":0, "lRST":14, "lMISO":19, "lMOSI":23, "lSCK":18, "lTCXOV":0.0}
+{"name":"[433] ESP32 + RA-02 custom","aADDR":0,"oSDA":21,"oSCL":22,"oRST":0,"pBut":0,"led":2,"radio":1,"lNSS":18,"lDIO0":26,"lDIO1":0,"lBUSSY":0,"lRST":23,"lMISO":19,"lMOSI":27,"lSCK":5,"lTCXOV":0.0}
 ```   
 
 Вид форм, заполненных на данном этапе, должен выглядеть следующим образом.
